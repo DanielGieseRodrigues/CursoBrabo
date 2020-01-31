@@ -10,7 +10,7 @@ namespace ConsoleBrabo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("racionais mcs");
+            Console.WriteLine("racionais mcs dkosakdsaopkopasdsda");
         }
     }
 }
