@@ -10,7 +10,7 @@ namespace ConsoleBrabo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Teste commit xD");
+            Console.WriteLine("O CURSO EH BRABO");
         }
     }
 }
